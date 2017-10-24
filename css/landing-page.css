@@ -168,3 +168,16 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.navbar-default {
+  background-color: rgba(0, 0, 0, 0.9);
+  border-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar-default .navbar-brand {
+  color: #999;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #999;
+}
